@@ -1,0 +1,14 @@
+.navbar ul li a:hover {
+    color:blue !important;
+}
+.card button:hover{
+    color:blue !important;
+}
+
+.navbar button:hover{
+    color: blue !important;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
